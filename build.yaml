@@ -3,15 +3,11 @@ include:
     shield: rommana_central_dongle dongle_display
   - board: seeeduino_xiao_ble
     shield: sweep_central_dongle dongle_display
-   - board: seeeduino_xiao_ble
-    shield: dongle_display
-
-    
   - board: seeeduino_xiao_ble
     shield: totem_left
   - board: seeeduino_xiao_ble
     shield: totem_right
   - board: seeeduino_xiao_ble
-    shield: totem_dongle
+    shield: totem_dongle dongle_display
   - board: seeeduino_xiao_ble
     shield: settings_reset
