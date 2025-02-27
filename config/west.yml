@@ -9,8 +9,9 @@ manifest:
       remote: zmkfirmware
       revision: main
       import: app/west.yml
-    - name: zmk-config
+    # modules
+    - name: zmk-dongle-display
       remote: englmaxi
-      revision: master
+      revision: win
   self:
     path: config
