@@ -6,6 +6,6 @@ include:
   - board: seeeduino_xiao_ble
     shield: totem_right
   - board: seeeduino_xiao_ble
-    shield: totem-dongle
+    shield: TOTEM_DONGLE
   - board: seeeduino_xiao_ble
     shield: settings_reset
