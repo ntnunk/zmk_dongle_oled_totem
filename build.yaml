@@ -2,7 +2,7 @@
 ---
 include:
   # totem
-  - board: nice_nano_v2
+  - board: seeeduino_xiao_ble
     shield: totem_central_dongle dongle_display
     artifact-name: totem_central_dongle
   - board: seeeduino_xiao_ble
