@@ -6,9 +6,6 @@ include:
     shield: totem_central_dongle dongle_display
     artifact-name: totem_central_dongle
   - board: seeeduino_xiao_ble
-    shield: totem_central_left
-    artifact-name: totem_central_left
-  - board: seeeduino_xiao_ble
     shield: totem_peripheral_left
     artifact-name: totem_peripheral_left
   - board: seeeduino_xiao_ble
@@ -18,3 +15,6 @@ include:
   # reset
   - board: seeeduino_xiao_ble
     shield: settings_reset
+# - board: seeeduino_xiao_ble
+   # shield: totem_central_left
+    #artifact-name: totem_central_left
